@@ -1,6 +1,6 @@
 package moneyWithdraw;
 
-public class Bank {
+public class Bank {//encapsulated class
 	private int pin;
 	
 	public void setPin(int pin) {

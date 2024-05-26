@@ -15,7 +15,7 @@ public class User {
 	
 
 	public static void main(String[] args) {
-		Bank bankObj=new Bank();
+		Bank bankObj=new Bank();// aggregation
 		bankObj.setPin(1234);
 		valid=bankObj.validPin();
 		User usrObj=new User();

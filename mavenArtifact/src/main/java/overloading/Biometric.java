@@ -1,8 +1,8 @@
-package overloading;
-
-public class Biometric {
-	
-	public byte print;
-	
-	Biometric
-}
+//package overloading;
+//
+//public class Biometric {
+//	
+//	public byte print;
+//	
+//	Biometric
+//}
